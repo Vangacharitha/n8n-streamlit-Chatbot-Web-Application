@@ -46,6 +46,11 @@ The chatbot supports **context-aware conversations** using memory, providing int
 └── Chatbot workflow.png # Screenshot - n8n workflow
 
 
+
+
+🛠️ Tech Stack
+
+
 | Tool                    | Purpose                  |
 | ----------------------- | ------------------------ |
 | **Streamlit**           | Frontend UI              |
